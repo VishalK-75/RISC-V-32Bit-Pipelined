@@ -1,0 +1,70 @@
+[*]
+[*] GTKWave Analyzer v3.3.124 (w)1999-2025 BSI
+[*] Thu Jun  4 11:07:18 2026
+[*]
+[dumpfile] "E:\RISC_V Pipeline\RISC_V Pipeline\RISC_V Pipeline.sim\sim_1\behav\xsim\dump.vcd"
+[dumpfile_mtime] "Thu Jun  4 11:06:58 2026"
+[dumpfile_size] 15210
+[savefile] "E:\RISC_V Pipeline\RISC_V Pipeline\RISC_V Pipeline.sim\sim_1\behav\xsim\pipeline.gtkw"
+[timestart] 0
+[size] 1920 973
+[pos] -1 -1
+*-18.000000 950000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Pipeline_Top_tb.
+[treeopen] Pipeline_Top_tb.uut.
+[sst_width] 290
+[signals_width] 297
+[sst_expanded] 1
+[sst_vpaned_height] 286
+@28
+Pipeline_Top_tb.clk
+Pipeline_Top_tb.rst
+@22
+Pipeline_Top_tb.uut.Fetch.InstrF[31:0]
+Pipeline_Top_tb.uut.Fetch.PCF[31:0]
+Pipeline_Top_tb.uut.Fetch.PCPlus4F[31:0]
+Pipeline_Top_tb.uut.Fetch.PCD[31:0]
+Pipeline_Top_tb.uut.Fetch.InstrD[31:0]
+Pipeline_Top_tb.uut.Fetch.PCPlus4D[31:0]
+@28
+Pipeline_Top_tb.uut.Decode.ALUControlD[2:0]
+Pipeline_Top_tb.uut.Decode.ImmSrcD[1:0]
+@22
+Pipeline_Top_tb.uut.Decode.Imm_ExtD[31:0]
+Pipeline_Top_tb.uut.Decode.Imm_ExtE[31:0]
+@28
+Pipeline_Top_tb.uut.Decode.ALUControlE[2:0]
+@22
+Pipeline_Top_tb.uut.Execute.ResultE[31:0]
+@28
+Pipeline_Top_tb.uut.Decode.ALUSrcE
+Pipeline_Top_tb.uut.Execute.PCSrcE
+@23
+Pipeline_Top_tb.uut.Execute.RdE[4:0]
+@22
+Pipeline_Top_tb.uut.Decode.PCE[31:0]
+Pipeline_Top_tb.uut.Decode.PCPlus4E[31:0]
+Pipeline_Top_tb.uut.Fetch.PCTargetE[31:0]
+Pipeline_Top_tb.uut.Execute.ALUResultM[31:0]
+Pipeline_Top_tb.uut.Memory.RdM[4:0]
+Pipeline_Top_tb.uut.Memory.WriteDataM[31:0]
+Pipeline_Top_tb.uut.Memory.PCPlus4M[31:0]
+Pipeline_Top_tb.uut.Memory.ReadDataM[31:0]
+Pipeline_Top_tb.uut.Memory.ALUResultW[31:0]
+@28
+Pipeline_Top_tb.uut.Memory.ResultSrcW
+@22
+Pipeline_Top_tb.uut.Decode.RdW[4:0]
+@28
+Pipeline_Top_tb.uut.Decode.RegWriteW
+@22
+Pipeline_Top_tb.uut.Writeback.ResultW[31:0]
+Pipeline_Top_tb.uut.Writeback.PCPlus4W[31:0]
+Pipeline_Top_tb.uut.Writeback.ReadDataW[31:0]
+Pipeline_Top_tb.uut.Decode.RS1_E[4:0]
+Pipeline_Top_tb.uut.Decode.RS2_E[4:0]
+@28
+Pipeline_Top_tb.uut.Hazard_Unit.ForwardAE[1:0]
+Pipeline_Top_tb.uut.Hazard_Unit.ForwardBE[1:0]
+[pattern_trace] 1
+[pattern_trace] 0
